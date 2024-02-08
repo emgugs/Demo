@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Al Jazeerah HD
+http://202.142.162.181:15414/OptiX/AlJazeerahHD.stream_360p/chunklist_w782067251.m3u8
+#EXTINF:0,Bol News
+http://202.142.162.181:15412/OptiX2/BolNewsHD/chunklist_w254749784.m3u8
+#EXTINF:0,Geo News
+http://202.142.162.181:15417/OptiX2/GeoNews/playlist.m3u8
