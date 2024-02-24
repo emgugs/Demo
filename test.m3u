@@ -23,3 +23,5 @@ http://43.251.255.162:15418/OptiX2/PtvSpOrtShD/chunklist_w13886708.m3u8
 http://43.251.255.162:15412/OptiX2/BolEntHD/chunklist_w32348267.m3u8
 #EXTINF:0, Bot Entertainments HD
 http://43.251.255.162:15411/OptiX2/TvOne.stream/playlist.m3u8
+#EXTINF:0, Dunia News
+http://43.251.255.162:15411/OptiX2/DuniyaNews/playlist.m3u8
