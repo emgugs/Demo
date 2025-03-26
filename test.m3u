@@ -1,29 +1,77 @@
 #EXTM3U
-#EXTINF:0,Al Jazeerah HD
-http://202.142.162.181:15414/OptiX/AlJazeerahHD.stream_360p/chunklist_w782067251.m3u8
-#EXTINF:0,Bol News
-http://202.142.162.181:15412/OptiX2/BolNewsHD/chunklist_w254749784.m3u8
-#EXTINF:0,Geo News
-http://202.142.162.181:15417/OptiX2/GeoNews/playlist.m3u8
-#EXTINF:0,Express News
-http://202.142.162.181:15412/OptiX/ExpressNews.stream_360p/playlist.m3u8
-#EXTINF:0,Aaj News
-http://202.142.162.181:15421/OptiX/AAJNews.stream_360p/playlist.m3u8
-#EXTINF:0, ARY Sports
-http://43.251.255.162:15416/OptiX2/aRyspHD/playlist.m3u8
-#EXTINF:0, GNN News
-http://43.251.255.162:15417/OptiX2/GNNHD/chunklist_w1304122447.m3u8
-#EXTINF:0, Samaa News
-http://43.251.255.162:15418/OptiX/SamaNews.stream_360p/playlist.m3u8
-#EXTINF:0, Ten Sports
-http://43.251.255.162:15413/OptiX2/TenSports/chunklist_w967040280.m3u8
-#EXTINF:0, PTV Sports
-http://43.251.255.162:15418/OptiX2/PtvSpOrtShD/chunklist_w13886708.m3u8
-#EXTINF:0, Bot Entertainments HD
-http://43.251.255.162:15412/OptiX2/BolEntHD/chunklist_w32348267.m3u8
-#EXTINF:0, Bot Entertainments HD
-http://43.251.255.162:15411/OptiX2/TvOne.stream/playlist.m3u8
-#EXTINF:0, Dunia News
-http://43.251.255.162:15411/OptiX2/DuniyaNews/playlist.m3u8
-#EXTINF:0, ARY Digtal HD
-http://43.251.255.162:15418/OptiX2/ARYDigitalHD/chunklist_w1411199617.m3u8
+
+#NEWS CHANNELS
+#EXTINF:-1,Al Jazeera HD
+http://43.251.255.162:15414/OptiX/AlJazeerahHD.stream_360p/chunklist_w172808645.m3u8
+#EXTINF:-1,CNN News
+http://43.251.255.162:15418/OptiX/CNNNews.stream_360p/chunklist_w265033770.m3u8
+#EXTINF:-1,BBC World News
+http://43.251.255.162:15416/OptiX2/BbCwOrLdNeWs/chunklist_w1096253870.m3u8
+#EXTINF:-1,Sky News
+http://43.251.255.162:15418/OptiX/SkyNews.stream_360p/chunklist_w2027449674.m3u8
+#EXTINF:-1,92 News HD
+http://43.251.255.162:15422/OptiX/92NewsHD.stream_360p/chunklist_w1531899040.m3u8
+#EXTINF:-1,Bol News HD
+http://43.251.255.162:15412/OptiX2/BolNewsHD/chunklist_w137289269.m3u8
+#EXTINF:-1,GNN HD
+http://43.251.255.162:15417/OptiX2/GNNHD/chunklist_w827854313.m3u8
+#EXTINF:-1,Channel 24
+http://43.251.255.162:15413/OptiX/Channel24.stream_360p/chunklist_w781844280.m3u8
+#EXTINF:-1,Hum News HD
+http://43.251.255.162:15415/OptiX2/HumNewsHD/chunklist_w486408012.m3u8
+#EXTINF:-1,Samaa News
+http://43.251.255.162:15418/OptiX/SamaNews.stream_360p/chunklist_w1450922480.m3u8
+#EXTINF:-1,Dawn News
+http://43.251.255.162:15418/OptiX/DawnNews.stream_360p/chunklist_w335661062.m3u8
+#EXTINF:-1,ARY News
+http://43.251.255.162:15415/OptiX/AryNews.stream_360p/chunklist_w1315611388.m3u8
+#EXTINF:-1,PTV News
+http://43.251.255.162:15417/OptiX/PTVNews.stream_360p/chunklist_w1429540782.m3u8
+#EXTINF:-1,Geo News
+http://43.251.255.162:15417/OptiX2/GeoNews/chunklist_w403256485.m3u8
+#EXTINF:-1,Geo Tez
+http://43.251.255.162:15414/OptiX2/GeOtEz/chunklist_w755148269.m3u8
+#EXTINF:-1,Duniya News
+http://43.251.255.162:15411/OptiX2/DuniyaNews/chunklist_w1646643354.m3u8
+#EXTINF:-1,Express News
+http://43.251.255.162:15412/OptiX/ExpressNews.stream_360p/chunklist_w65948200.m3u8
+#EXTINF:-1,AAJ News
+http://43.251.255.162:15421/OptiX/AAJNews.stream_360p/chunklist_w541087484.m3u8
+#EXTINF:-1,Abb Tak News
+http://43.251.255.162:15422/OptiX/AbbTak.stream_360p/chunklist_w364729944.m3u8
+
+#SPORTS CHANNELS
+#EXTINF:-1,Ten Sports
+http://43.251.255.165:43164/OptiX2/TenSports/chunklist_w711512267.m3u8
+#EXTINF:-1,PTV Sports HD
+http://43.251.255.164:43163/OptiX2/PtvSpOrtShD/chunklist_w429629059.m3u8
+#EXTINF:-1,Geo Super
+http://43.251.255.162:15417/OptiX2/GeoSuper/chunklist_w183726458.m3u8
+#EXTINF:-1,ARY Sports
+http://43.251.255.163:43173/OptiX2/ArySports/chunklist_w1799597380.m3u8
+#EXTINF:-1,Baby TV HD
+http://43.251.255.162:15423/OptiX2/BaBytVhD/chunklist_w275788141.m3u8
+
+#ENTERTAINMENT
+#EXTINF:-1,Bol Entertainment HD
+http://43.251.255.162:15412/OptiX2/BolEntHD/chunklist_w1325729547.m3u8
+#EXTINF:-1,Hum Sitaray
+http://43.251.255.162:15415/OptiX/HumSitaray.stream_360p/chunklist_w624337473.m3u8
+#EXTINF:-1,ARY Zindagi
+http://43.251.255.162:15418/OptiX/AryZindage.stream_360p/chunklist_w860101901.m3u8
+#EXTINF:-1,ARY Digital HD
+http://43.251.255.163:43173/OptiX2/ArYDiGiTaLHd/chunklist_w1696976590.m3u8
+#EXTINF:-1,PTV Home
+http://43.251.255.162:15417/OptiX/PtvHome.stream_360p/chunklist_w610564367.m3u8
+#EXTINF:-1,Express Entertainment
+http://43.251.255.162:15415/OptiX/ExpressEnt.stream_360p/chunklist_w1477418820.m3u8
+#EXTINF:-1,Geo Entertainment
+http://43.251.255.162:15417/OptiX2/GeoEnt/chunklist_w541824671.m3u8
+#EXTINF:-1,PTV World
+http://43.251.255.162:15416/OptiX/PtvWorld.stream_360p/chunklist_w1062313927.m3u8
+
+#RELIGIOUS
+#EXTINF:-1,Saudi Quran HD
+http://43.251.255.162:15415/OptiX2/SaUdiQuRaNHD/chunklist_w1477032032.m3u8
+#EXTINF:-1,Peace TV Urdu
+http://43.251.255.162:15415/OptiX/PeaceTvUrdu.stream_360p/chunklist_w43776604.m3u8
