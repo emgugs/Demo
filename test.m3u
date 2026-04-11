@@ -101,3 +101,11 @@ http://43.251.255.162:15417/OptiX2/GeoKahani/chunklist_w853136787.m3u8
 http://43.251.255.162:15417/OptiX2/GeoEnt/chunklist_w624559764.m3u8
 #EXTINF:-1,AANTV.stream_360p
 http://43.251.255.162:15422/OptiX/AANTV.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Cameras",Garage
+http://10.10.10.10:1984/api/stream.m3u8?src=Garage&mp4
+#EXTINF:-1 group-title="Cameras",Back
+http://10.10.10.10:1984/api/stream.m3u8?src=Back&mp4
+#EXTINF:-1 group-title="Cameras",Top
+http://10.10.10.10:1984/api/stream.m3u8?src=top&mp4
+#EXTINF:-1 group-title="Cameras",Front
+http://10.10.10.10:1984/api/stream.m3u8?src=Front&mp4
